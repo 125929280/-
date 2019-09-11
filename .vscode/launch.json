@@ -1,0 +1,218 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Start",
+            "request": "launch",
+            "mainClass": "Dormitory.Start",
+            "projectName": "test (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UpdatePasswordPanel",
+            "request": "launch",
+            "mainClass": "GUI.SystemAdminPanel.UpdatePasswordPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UpdatePasswordPanel",
+            "request": "launch",
+            "mainClass": "GUI.StudentPanel.UpdatePasswordPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchStudentPanel",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.SearchStudentPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StudentInfoPanel",
+            "request": "launch",
+            "mainClass": "GUI.SystemAdminPanel.StudentInfoPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StudentInfoPanel",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.StudentInfoPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchDormitoryPanel",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.SearchDormitoryPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChangeDormitory",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.ChangeDormitory",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DormitoryInfoPanel",
+            "request": "launch",
+            "mainClass": "GUI.SystemAdminPanel.DormitoryInfoPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AdminInfoPanel",
+            "request": "launch",
+            "mainClass": "GUI.SystemAdminPanel.AdminInfoPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddAdminPanel",
+            "request": "launch",
+            "mainClass": "GUI.SystemAdminPanel.AddAdminPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FinishRepairPanel",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.FinishRepairPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DormitoryInfoPanel",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.DormitoryInfoPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UpdatePasswordPanel",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.UpdatePasswordPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AdminPanel",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.AdminPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - xx",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.xx",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shibai",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.Shibai",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - help",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.help",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cchh",
+            "request": "launch",
+            "mainClass": "GUI.AdminPanel.cchh",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StudentPanel",
+            "request": "launch",
+            "mainClass": "GUI.StudentPanel.StudentPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemAdminPanel",
+            "request": "launch",
+            "mainClass": "GUI.SystemAdminPanel.SystemAdminPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemAdminPanel",
+            "request": "launch",
+            "mainClass": "GUI.SystemAdmin.SystemAdminPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoginFirm",
+            "request": "launch",
+            "mainClass": "GUI.LoginFirm",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - updatePasswordPanel",
+            "request": "launch",
+            "mainClass": "GUI.updatePasswordPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AdminInfoPanel",
+            "request": "launch",
+            "mainClass": "GUI.AdminInfoPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemAdminPanel",
+            "request": "launch",
+            "mainClass": "GUI.SystemAdminPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AdminInfoPanel",
+            "request": "launch",
+            "mainClass": "Dormitory.AdminInfoPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemAdminPanel",
+            "request": "launch",
+            "mainClass": "Dormitory.SystemAdminPanel",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Start<test>",
+            "request": "launch",
+            "mainClass": "Dormitory.Start",
+            "projectName": "test",
+            "console": "integratedTerminal"
+        }
+    ]
+}
